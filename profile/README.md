@@ -1,4 +1,4 @@
-# Knox Systems — Images
+# Knox Systems — Artifacts
 
 Container and machine images from Knox Systems.
 
@@ -16,4 +16,4 @@ anything here.
 - [knoxsystems.com](https://www.knoxsystems.com) — who we are and what we do
 
 <!-- Managed by iac-landing-zone. Edit the source, not this page: -->
-<!-- infra/live/knox-platform/tooling/github-com/enterprise-knox-systems/org-knox-images/readme/public.md -->
+<!-- infra/live/knox-platform/tooling/github-com/enterprise-knox-systems/org-knox-artifacts/readme/public.md -->
